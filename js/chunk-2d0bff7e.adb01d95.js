@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0bff7e"],{"407c":function(n,t,e){"use strict";e.r(t);var c=function(){var n=this,t=n._self._c;return t("div",{staticClass:"content"},[t("patient-form")],1)},o=[],s=e("4570"),a={components:{PatientForm:s["k"]}},i=a,u=e("2877"),l=Object(u["a"])(i,c,o,!1,null,null,null);t["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d0bff7e.adb01d95.js.map
