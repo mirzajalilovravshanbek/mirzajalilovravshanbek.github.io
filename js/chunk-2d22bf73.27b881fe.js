@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22bf73"],{f0e8:function(o,t,n){"use strict";n.r(t);var r=function(){var o=this,t=o._self._c;return t("div",{staticClass:"content all-div-height"},[t("doctor-room-form",{attrs:{"data-background-color":"green"}})],1)},c=[],e=n("4570"),a={components:{DoctorRoomForm:e["e"]}},s=a,l=n("2877"),u=Object(l["a"])(s,r,c,!1,null,null,null);t["default"]=u.exports}}]);
-//# sourceMappingURL=chunk-2d22bf73.27b881fe.js.map

@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22d3d8"],{f73d:function(n,t,l){"use strict";l.r(t);var o=function(){var n=this,t=n._self._c;return t("div",{staticClass:"content all-div-height"},[t("pill-form",{attrs:{"data-background-color":"green"}})],1)},a=[],c=l("4570"),e={components:{PillForm:c["l"]}},r=e,s=l("2877"),i=Object(s["a"])(r,o,a,!1,null,null,null);t["default"]=i.exports}}]);
-//# sourceMappingURL=chunk-2d22d3d8.1f56ba4e.js.map
